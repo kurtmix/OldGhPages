@@ -1,11 +1,13 @@
-
-body {
-    background-image: url(http://www.graphicsfuel.com/wp-content/uploads/2013/08/blurred-texture-background02-preview.jpg);
-    background-size: cover;
-}
-p {
-    color: white;
+body{
+    background-image: url(http://www.2kgames.com/thedarkness/images/moonlogo_2.jpg);
+    background-size:cover;
 }
 h1{
-    color: white;
+    color:white;
+}
+p{
+    color:black;
+}
+h2{
+    color:white;
 }
